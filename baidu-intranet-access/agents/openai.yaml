@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baidu Intranet Access"
+  short_description: "Read Baidu intranet pages with saved login"
+  default_prompt: "Use $baidu-intranet-access to fetch and summarize a Baidu intranet page."
