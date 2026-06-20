@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enterprise Search"
+  short_description: "Search Baidu internal people, docs, meetings, OKRs"
+  default_prompt: "Use $enterprise-search to search Baidu internal people, documents, meetings, weekly reports, and OKRs."
